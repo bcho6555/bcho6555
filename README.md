@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! This is my website for Lab 7. Here you can see all the places that I have thought about going and have went also. Hope you enjoy!
 
 <!--
 **bcho6555/bcho6555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
